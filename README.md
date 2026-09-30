@@ -1,2 +1,2 @@
-# banking-risk-analysis
-End-to-end Power BI data analytics solution designed to minimize banking lending risk. Features customized DAX metrics, data modeling, applicant demographic profiling, and granular insights across loans, deposits, and fee revenue.
+**banking-risk-analysis** is an interactive Power BI analytics solution designed to evaluate credit risk and optimize lending decisions in retail and private banking. Built on a multi-relational dataset, it features custom DAX metrics, data modeling, and user segmentation to minimize financial risk. The repository includes four structured views: a macro home dashboard, loan exposure analysis, deposit distribution tracking, and an operational summary page. Stakeholders can analyze applicant profiles, monitor liquidity, and track processing fee revenues across diverse income bands, customer tenures, and demographics to establish data-driven risk management strategies.
+
